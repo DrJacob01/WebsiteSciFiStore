@@ -29,3 +29,21 @@ footer {
   color: #fff;
   padding: 20px;
 }
+
+button {
+  background-color: #a8a8a8;
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #757575;
+  color: #fff;
+}
+
+button:active {
+  background-color: #333;
+  color: #fff;
+}
